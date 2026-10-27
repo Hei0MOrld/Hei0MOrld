@@ -16,6 +16,7 @@
 ModWiggler、diystompboxes.com、RC2014-Z80グループで紹介して、使った人の意見をもとに直しています。
 
 ### そのほか
+- [home-db-backup](https://github.com/Hei0MOrld/home-db-backup): 自宅の古いPCで、クラウドのDB(Supabase / Neon)を毎晩暗号化してバックアップし、月1回「本当に戻せるか」を自動で確かめる仕組み。同じ機械の定期処理が44日間だれにも気づかれず失敗していた件の[ふりかえり](https://github.com/Hei0MOrld/home-db-backup/blob/main/POSTMORTEM.md)から作り直しました · CIで本物のPostgresに戻すテストを毎回実行
 - [company-galaxy](https://github.com/Hei0MOrld/company-galaxy): 約2万4千社の親会社・子会社・株主のつながりを3D/2Dで見られます(Wikidata) · [サイト](https://company-galaxy.vercel.app)
 - [kutoten](https://github.com/Hei0MOrld/kutoten): 抜けた句読点を原稿用紙に打ち直す日本語パズル · [サイト](https://kutoten-orpin.vercel.app)
 
@@ -23,8 +24,8 @@ ModWiggler、diystompboxes.com、RC2014-Z80グループで紹介して、使っ�
 - **ラズパイ5 + Picoのマルチエフェクター**: 回路・配線・ケース・ソフトまで自作しています。ノイズの原因(ブレッドボードのGNDの取り方)を突き止めて、音の部分を基板に組み直すところです。
 
 ## 使っているもの
-TypeScript · Next.js · Python · Vercel · Supabase · Raspberry Pi · はんだごて
+TypeScript · Next.js · Python · Vercel · Supabase · Postgres · Docker · Linux · Raspberry Pi · はんだごて
 
 ---
 
-**English:** Student maker in Japan. I build small web tools for DIY electronics, mainly BOM-to-Mouser/DigiKey cart tools for [Eurorack](https://github.com/Hei0MOrld/eurorack-bom) and [RC2014](https://github.com/Hei0MOrld/rc2014-bom), each v1.0 with regression tests built from real supplier data. Currently building a Raspberry Pi 5 multi-effects guitar pedal.
+**English:** Student maker in Japan. I build small web tools for DIY electronics, mainly BOM-to-Mouser/DigiKey cart tools for [Eurorack](https://github.com/Hei0MOrld/eurorack-bom) and [RC2014](https://github.com/Hei0MOrld/rc2014-bom), each v1.0 with regression tests built from real supplier data. Also: [home-db-backup](https://github.com/Hei0MOrld/home-db-backup), nightly encrypted Postgres backups on a home Linux box with automated restore tests, written up with a [postmortem](https://github.com/Hei0MOrld/home-db-backup/blob/main/POSTMORTEM.md) of a 44-day silent failure. Currently building a Raspberry Pi 5 multi-effects guitar pedal.
