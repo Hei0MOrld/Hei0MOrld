@@ -13,7 +13,7 @@
 | [rc2014-bom](https://github.com/Hei0MOrld/rc2014-bom) | RC2014 / Z80の自作コンピューター | v1.0 · テスト34件 · [サイト](https://rc2014-bom.vercel.app) |
 | Smart BOM | ギターエフェクター | [サイト](https://smart-bom-eta.vercel.app) |
 
-ModWiggler、diystompboxes.com、RC2014-Z80グループで紹介して、使った人の意見をもとに直しています。
+ModWiggler、diystompboxes.com、RC2014-Z80グループで紹介しました。Eurorack版には、利用者からの意見(DigiKeyの国・通貨の選択)と、外部のコントリビューターからのPR 2件を取り込んでいます。
 
 ### そのほか
 - [home-db-backup](https://github.com/Hei0MOrld/home-db-backup): 自宅の古いPCで、クラウドのDB(Supabase / Neon)を毎晩暗号化してバックアップし、月1回「本当に戻せるか」を自動で確かめる仕組み。同じ機械の定期処理が44日間だれにも気づかれず失敗していた件の[ふりかえり](https://github.com/Hei0MOrld/home-db-backup/blob/main/POSTMORTEM.md)から作り直しました · CIで本物のPostgresに戻すテストを毎回実行
