@@ -18,7 +18,6 @@ ModWiggler、diystompboxes.com、RC2014-Z80グループで紹介して、使っ�
 ### そのほか
 - [company-galaxy](https://github.com/Hei0MOrld/company-galaxy): 約2万4千社の親会社・子会社・株主のつながりを3D/2Dで見られます(Wikidata) · [サイト](https://company-galaxy.vercel.app)
 - [kutoten](https://github.com/Hei0MOrld/kutoten): 抜けた句読点を原稿用紙に打ち直す日本語パズル · [サイト](https://kutoten-orpin.vercel.app)
-- [doujin-manager](https://github.com/Hei0MOrld/doujin-manager): 同人作家のための在庫・売上・イベント管理
 
 ## いま作っているもの
 - **ラズパイ5 + Picoのマルチエフェクター**: 回路・配線・ケース・ソフトまで自作しています。ノイズの原因(ブレッドボードのGNDの取り方)を突き止めて、音の部分を基板に組み直すところです。
