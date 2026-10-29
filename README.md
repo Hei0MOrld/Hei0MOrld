@@ -18,6 +18,7 @@ ModWiggler、diystompboxes.com、RC2014-Z80グループで紹介しました。E
 ### そのほか
 - [home-db-backup](https://github.com/Hei0MOrld/home-db-backup): 自宅の古いPCで、クラウドのDB(Supabase / Neon)を毎晩暗号化してバックアップし、月1回「本当に戻せるか」を自動で確かめる仕組み。同じ機械の定期処理が44日間だれにも気づかれず失敗していた件の[ふりかえり](https://github.com/Hei0MOrld/home-db-backup/blob/main/POSTMORTEM.md)から作り直しました · CIで本物のPostgresに戻すテストを毎回実行
 - [company-galaxy](https://github.com/Hei0MOrld/company-galaxy): 約2万4千社の親会社・子会社・株主のつながりを3D/2Dで見られます(Wikidata) · [サイト](https://company-galaxy.vercel.app)
+- [doujin-manager](https://github.com/Hei0MOrld/doujin-manager): 同人作家のための在庫・売上・イベント管理。即売会の当日はスマホでタップして部数を数え、在庫が自動で減ります。在庫をお客さんに見せる[公開ページ](https://doujin-manager.vercel.app/u/demo)つき · Next.js + Supabase(行レベルセキュリティ) · [サイト](https://doujin-manager.vercel.app)
 - [kutoten](https://github.com/Hei0MOrld/kutoten): 抜けた句読点を原稿用紙に打ち直す日本語パズル · [サイト](https://kutoten-orpin.vercel.app)
 
 ## いま作っているもの
